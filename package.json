@@ -1,0 +1,20 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "googleapis": "^103.0.0",
+    "nodemailer": "^6.7.5",
+    "nodemon": "^2.0.16",
+    "pm2": "^5.2.0"
+  }
+}
